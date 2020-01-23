@@ -3,4 +3,4 @@ O codigo neste repositório é um modelo LaTeX para um CV (Curriculum Vitae), Cu
 
 Template
 
-![CV](https://github.com/paulorodrigues99/CVtemplate/blob/master/img/Curriculo%20-%20Paulo%20Victor.pdf)
+![image](https://github.com/paulorodrigues99/CVtemplate/blob/master/img/Curriculo%20-%20Paulo%20Victor.pdf)
